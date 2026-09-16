@@ -1,3 +1,3 @@
 """Main entry point for Hinata."""
 
-print("Hinata project initialized!")
+print("Hello! Hinata is ready.")
